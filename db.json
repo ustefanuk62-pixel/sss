@@ -1,0 +1,7 @@
+{
+  "host": "mysql.play2go.cloud",
+  "port": 3306,
+  "database": "s32855_Playlist",
+  "user": "ВСТАВЬ_USERNAME_ИЗ_ПАНЕЛИ",
+  "password": "ВСТАВЬ_ПАРОЛЬ_ИЗ_ПАНЕЛИ"
+}

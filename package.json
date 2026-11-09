@@ -1,8 +1,9 @@
 {
   "name": "playlist-site",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Плейлист by @ween7777",
   "main": "index.js",
   "scripts": { "start": "node index.js" },
+  "dependencies": { "mysql2": "^3.11.0" },
   "license": "MIT"
 }
